@@ -1,0 +1,549 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Graphs, adding and subtracting</title>
+  <metadata>
+  <md:content-id>m32442</md:content-id><md:title>Graphs, adding and subtracting</md:title>
+  <md:abstract/>
+  <md:uuid>073c7beb-45c5-4563-9dde-b0941a7e775d</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1168123934938">
+      <title>MATHEMATICS</title>
+      <para id="para-id1168123934938">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8404335">
+      <title>Mathematics in the world around us</title>
+      <para id="para-id8404335">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168145168956">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id1168145168956">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5449441">
+      <title>Memorandum</title>
+      <para id="para-id5449441">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168141388876">
+      <title>Critical and developmental outcomes:</title>
+      <para id="id1168120834200">The learners must be able to:</para>
+      <para id="id1168138139215">1. identify and solve problems and make decisions using critical and creative thinking;</para>
+      <para id="id1168147683955">2. work effectively with others as members of a team, group, organisation and community;</para>
+      <para id="id1168149259583">3. organise and manage themselves and their activities responsibly and effectively;</para>
+      <para id="id1168146739883">4. collect, analyse, organise and critically evaluate information;</para>
+      <para id="id1168146687609">5. communicate effectively using visual, symbolic and/or language skills in various modes;</para>
+      <para id="id1168121066941">6. use science and technology effectively and critically, showing responsibility towards the environment and the health of others;</para>
+      <para id="id1168150271076">6. demonstrate an understanding of the world as a set of related systems by recognising that problem-solving contexts do not exist in isolation;</para>
+      <para id="id1168119330625">7. reflect on and explore a variety of strategies to learn more effectively;</para>
+      <para id="id1168134276213">8. participate as responsible citizens in the life of local, national, and global communities;</para>
+      <para id="id1168150500732">9. be culturally and aesthetically sensitive across a range of social contexts;</para>
+      <para id="id1168139818979">10. explore education and career opportunities; and</para>
+      <para id="id1168139689431">develop entrepreneurial opportunities.</para>
+      <list id="id1168129577539" list-type="bulleted">
+        <item><emphasis effect="bold">Integration of Themes:</emphasis> Friends</item>
+        <item><emphasis effect="bold">Social Justice, Human Rights and a healthy environment:</emphasis> “I am in Grade 2 with many other children. Each learner needs to be happy. The educator needs a suitable learning environment in order to teach us.”</item>
+        <item>Discuss the learner’s responsibility to create such an environment.</item>
+        <item>Taking turns on the jungle gym is important – why? Discuss safety, manners, co-operation, etc.</item>
+        <item>Learners extend their number concept to 109 on the “jungle gym”. The activities include ordinals, names, symbols and counting forward and backward.</item>
+        <item>Position is established by places in the classroom, using a floor map of the room.</item>
+        <item>A graph is designed to be completed by collecting information.</item>
+        <item>Addition and subtraction are extended to +4, -4, +5, -5, +6, -6, +7, -7.</item>
+        <item>Bonds of 10 and 11 are discovered.</item>
+        <item>Directions are given to draw and colour a shape.</item>
+        <item>Measuring with thumbs and comparison of these measurements using the related vocabulary.</item>
+      </list>
+    </section>
+    <section id="id1168145197991">
+      <title>LEANER SECTION</title>
+      <para id="para-id1168145197991">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168137651468">
+      <title>Content</title>
+      <section id="id1168120813301">
+        <title>ACTIVITY: Graphs, Adding and Subtracting [LO 1.2, LO 1.4, LO 1.8, LO 1.10, LO 2.2, LO 5.1, LO 5.2, LO 5.4, LO 5.5]</title>
+        <para id="para-id1168120813301">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1168119407521">
+        <title>I need to make a graph</title>
+        <para id="id1168119532507">The graph will help me find out …</para>
+        <para id="id1168137888448">- which is the longest.</para>
+        <para id="id1168150355271">- which is the shortest.</para>
+        <para id="id1168139696789">- which is the furthest.</para>
+        <para id="id1168141071662">- which is the nearest.</para>
+        <list id="id4743403" list-type="bulleted">
+          <item>For each thumb you counted, colour one block.</item>
+        </list>
+        <para id="id5290094">My graph on lengths</para>
+        <para id="id1168139941181">The length of…</para>
+        <table id="id1168125385145" summary="">
+          <tgroup cols="13">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <colspec colnum="13" colname="c13"/>
+            <tbody>
+              <row>
+                <entry>the cupboard</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>the board</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>the mat</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>the windows (right)</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>the windows (left)</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>the reading corner</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1168138767101"/>
+        <list id="id7505482" list-type="bulleted">
+          <item>Now I can see…….</item>
+        </list>
+        <para id="id6114727">1. The ________________________ is the longest.</para>
+        <para id="id1168127448408">2. The ________________________ is the shortest.</para>
+        <para id="id1168127223013">3. The length of the cupboard is __________ than the length of the mat. (longer, shorter)</para>
+        <para id="id1168138683289">4.  The length of the board is ___________ than the windows on the left. (longer, shorter)</para>
+        <table id="id7007916" summary="">
+          <tgroup cols="8">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <tbody>
+              <row>
+                <entry>LO 5.1</entry>
+                <entry/>
+                <entry>LO 5.2</entry>
+                <entry/>
+                <entry>LO 5.4</entry>
+                <entry/>
+                <entry>LO 5.5</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id4861859">
+        <title>Play with numbers</title>
+        <list id="id1168158702330" list-type="bulleted">
+          <item>Begin from 1. Draw a line from 1 to 2, from 2 to 3, etc, until you get to 40.</item>
+        </list>
+        <para id="id1168130734246">
+          <figure id="id1168138495674">
+            <media id="id1168138495674_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics1-5cdf.png" id="id1168138495674__onlineimage" height="311" width="450"/>
+            </media>
+          </figure>
+        </para>
+        <list id="id1168147148227" list-type="bulleted">
+          <item>Make each number one more and one less.</item>
+        </list>
+        <figure id="id1168159884307">
+          <media id="id1168159884307_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-beee.png" id="id1168159884307__onlineimage" height="230" width="433"/>
+          </media>
+        </figure>
+        <table id="id1168144989928" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>LO 1.2</entry>
+                <entry/>
+                <entry>LO 1.4</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id1168138814071" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>+ 1</entry>
+                <entry>+ 3</entry>
+                <entry>- 1</entry>
+                <entry>+ 4</entry>
+                <entry>- 2</entry>
+                <entry>+ 10</entry>
+              </row>
+              <row>
+                <entry>30</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>28</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>37</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>2 1</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>19</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id1168125494547" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>- 2</entry>
+                <entry>- 1</entry>
+                <entry>+ 3</entry>
+                <entry>+ 1</entry>
+                <entry>+ 2</entry>
+                <entry>- 10</entry>
+              </row>
+              <row>
+                <entry>32</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>44</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>35</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>40</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>47</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1168124834516"/>
+        <table id="id1168125349260" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>LO 1.8</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id1168139780321">
+        <title>Rename numbers</title>
+        <figure id="id1168150281186">
+          <media id="id1168150281186_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-45c4.png" id="id1168150281186__onlineimage" height="594" width="424"/>
+          </media>
+        </figure>
+        <table id="id1168153431031" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>LO 1.10</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <figure id="id1168139536612">
+          <media id="id1168139536612_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics4-9a3f.png" id="id1168139536612__onlineimage" height="126" width="388"/>
+          </media>
+        </figure>
+        <list id="id1168133903724" list-type="bulleted">
+          <item>Can you show Sally different ways in which she can make her sum easier? Write or draw them here.</item>
+        </list>
+        <list id="id1168159623304" list-type="bulleted">
+          <item>Des has a plan.</item>
+        </list>
+        <figure id="id1168141346397">
+          <media id="id1168141346397_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics5-ac87.png" id="id1168141346397__onlineimage" height="191" width="405"/>
+          </media>
+        </figure>
+        <list id="id1168147542717" list-type="bulleted">
+          <item>Liz has another plan.</item>
+        </list>
+        <figure id="id1168134377113">
+          <media id="id1168134377113_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics6-b5cc.png" id="id1168134377113__onlineimage" height="195" width="393"/>
+          </media>
+        </figure>
+        <table id="id1168124329529" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>LO 1.8</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <list id="id1168154077752" list-type="bulleted">
+          <item>Let’s use the plan Des had.</item>
+          <item>Use smaller numbers for the ones in circles.</item>
+          <item>Rename them.</item>
+          <item>Use arrows to say “gives me”.</item>
+        </list>
+        <figure id="id1168136402972">
+          <media id="id1168136402972_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics7-929a.png" id="id1168136402972__onlineimage" height="619" width="572"/>
+          </media>
+        </figure>
+        <table id="id1168142088400" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>LO 1.8</entry>
+                <entry/>
+                <entry>LO 2.2</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <list id="id7560994" list-type="bulleted">
+          <item>Do these sums in the same way by renaming the number in the circle.</item>
+        </list>
+        <figure id="id1168140934798">
+          <media id="id1168140934798_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics8-fe72.png" id="id1168140934798__onlineimage" height="570" width="552"/>
+          </media>
+        </figure>
+        <table id="id1168139901105" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>LO 1.8</entry>
+                <entry/>
+                <entry>LO 2.2</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id1168161973727">
+      <title>Assessment</title>
+      <para id="id1168133107588"><emphasis><emphasis effect="italics">Learning Outcome 1:</emphasis></emphasis>The learner will be able to recognise, describe and represent numbers and their The learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</para>
+      <para id="id1168155484538"><emphasis><emphasis effect="italics">Assessment Standard 1.2:</emphasis></emphasis> We know this when the learner counts forwards and backwards in:</para>
+      <para id="id1168133637076">1.2.1 ones from any number between 0 and 200;</para>
+      <para id="id1168134003287">1.2.2 tens from any multiple of 10 between 0 and 200;</para>
+      <para id="id1168151876008">1.2.3 fives from any multiple of 5 between 0 and 200;</para>
+      <para id="id1168124907032">1.2.4 twos from any multiple of 2 between 0 and 200;</para>
+      <para id="id1168135924566"><emphasis><emphasis effect="italics">Assessment Standard 1.4:</emphasis></emphasis> We know this when the learner orders, describes and compares the following numbers:</para>
+      <para id="id1168134267846">1.4.1 whole numbers to at least 2-digit numbers;</para>
+      <para id="id1168155916276">1.4.2 common fractions including halves and quarters;</para>
+      <para id="id1168155865047"><emphasis><emphasis effect="italics">Assessment Standard 1.8:</emphasis></emphasis> We know this when the learner can perform calculations, using appropriate symbols, to solve problems;</para>
+      <para id="id1168147259912"><emphasis><emphasis effect="italics">Assessment Standard 1.10:</emphasis></emphasis> We know this when the learner uses the following techniques:</para>
+      <para id="id1168153799991">1.10.1 building up and breaking down numbers;</para>
+      <para id="id1168145166717">1.10.2 doubling and halving;</para>
+      <para id="id1168133302049">1.10.3 using concrete apparatus (e.g. counters);</para>
+      <para id="id1168156829263">1.10.4 number-lines;</para>
+      <para id="id1168158736357"><emphasis><emphasis effect="italics">Learning Outcome 2:</emphasis></emphasis>The learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</para>
+      <para id="id1168145147572"><emphasis><emphasis effect="italics">Assessment Standard 2.2:</emphasis></emphasis> We know this when the learner copies and extends simple number sequences to at least 200.</para>
+      <para id="id6856899"><emphasis><emphasis effect="italics">Learning Outcome 5:</emphasis></emphasis>The learner will be able to collect, summarise, display and critically analyse data in order to draw conclusions and make predictions, and to interpret and determine chance variation.</para>
+      <para id="id1168147704161"><emphasis><emphasis effect="italics">Assessment Standard 5.1:</emphasis></emphasis> We know this when the learner collects data (alone and/or as a member of a group or team) in the classroom and school environment to answer questions posed by the teacher (e.g. ‘how many learners are there in each classroom?’);</para>
+      <para id="id8922627"><emphasis><emphasis effect="italics">Assessment Standard 5.2:</emphasis></emphasis> We know this when the learner sorts physical objects to one attribute chosen by the teacher;</para>
+      <para id="id7820200"><emphasis><emphasis effect="italics">Assessment Standard 5.4:</emphasis></emphasis> We know this when the learner draws pictures and constructs pictographs that have a 1-1 correspondence between own data and representations;</para>
+      <para id="id1168147290787"><emphasis><emphasis effect="italics">Assessment Standard 5.5:</emphasis></emphasis> We know this when the learner describes own or a peer’s collection of objects, explains how it was sorted, and answers questions about it.</para>
+    </section>
+  </content>
+</document>
